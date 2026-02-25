@@ -23,8 +23,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-232323?style=for-the-badge&logo=leetcode&logoColor=F89F1B" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Foundations-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/System%20Design-232323?style=for-the-badge&logo=vercel&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Full%20Stack%20Foundations-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/System%20Design-232323?style=for-the-badge&logo=vercel&logoColor=white" /> -->
 </p>
 
 ---
