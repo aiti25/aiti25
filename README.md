@@ -13,7 +13,7 @@
 
 - 🎓 **Undergraduate in Software Engineering**
 - 🧠 Strong interest in **Artificial Intelligence, Algorithms, and System Design**
-- 💻 Hands-on experience in **Java, Python, Data Structures , RHCSA **
+- 💻 Hands-on experience in ** Java, C ,Python, Data Structures ,SQL, RHCSA **
 - 🚀 Vision: **Building scalable AI-driven products with real-world impact**
 
 ---
